@@ -1,0 +1,10 @@
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaNegocio\obj\Debug\CapaNegocio.pdb

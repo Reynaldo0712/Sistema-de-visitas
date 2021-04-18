@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\DELL\Source\Repos\SistemaDeVisitas\CapaDatos\obj\Debug\CapaDatos.pdb
