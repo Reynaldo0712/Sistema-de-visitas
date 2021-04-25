@@ -6,7 +6,9 @@ Colaboradores:
  -Leonaldo Benjamin Rondon (2019-7437)
  -Reynaldo Cruz Doble (2018-6843)
  -Daniel Osvaldo Lopez (2018-6367)
- -Kendry Alexander Mejia (2018-656)
+ -Kendry Alexander Mejia (2018-6560)
+ -Joel Grullon Santana (2018-6508)
+ -Saul De la Cruz Garcia (2018-6555)
  
  Funcionamiento del Proyecto:
  
