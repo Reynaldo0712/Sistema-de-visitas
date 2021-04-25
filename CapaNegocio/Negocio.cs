@@ -19,10 +19,7 @@ namespace CapaNegocio
 
         public DataTable logins(string UserName, string Password)
         {
-
-
             return dat.login(UserName, Password);
-
 
         }
 
@@ -39,9 +36,6 @@ namespace CapaNegocio
         {
 
             dat.register(nombre, apellido, carrera, correo, Edificio, Hora, motivo,  Aula, tipo_visita);
-
-
-             
 
 
         }
@@ -123,10 +117,7 @@ namespace CapaNegocio
         public void modif(int id, int edif)
         {
 
-
             dat.modifcar(id, edif);
-
-
 
         }
 
