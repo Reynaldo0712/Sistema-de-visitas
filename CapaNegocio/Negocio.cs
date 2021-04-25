@@ -25,11 +25,7 @@ namespace CapaNegocio
 
         public void crearuser(string UserName, string Password, string usertype, string Nombre, string Apellido, DateTime Fecha)
         {
-
-
-
-            dat.crear(UserName, Password, usertype, Nombre, Apellido, Fecha);
-
+                        dat.crear(UserName, Password, usertype, Nombre, Apellido, Fecha);
 
         }
         public void registers(string nombre, string apellido, string carrera, string correo, int Edificio, string Hora,  string motivo, string Aula, string tipo_visita)
@@ -73,7 +69,6 @@ namespace CapaNegocio
         {
 
             dat.Seleccionar2(combo);
-
 
         }
 
