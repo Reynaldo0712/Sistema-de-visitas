@@ -16,29 +16,9 @@ namespace CapaDatos
         SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["sqlconex"].ConnectionString);
         SqlCommand comando;
         Entidad enti = new Entidad();
-        public DataTable login(string UserName, string Password)
-        {
-            
-
-
-        con.Open();
-
-
-            comando = new SqlCommand("lg_visitas", con);
-            comando.CommandType = CommandType.StoredProcedure;
-            comando.Parameters.AddWithValue("@usuario", UserName);
-            comando.Parameters.AddWithValue("@contraseña", Password);
-            SqlDataAdapter da = new SqlDataAdapter(comando);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            con.Close();
-            return dt;
-
-        }
+       
         public void crear(string UserName, string Password, string tipo_user, string nombre, string apellido, DateTime fecha)
         {
-
-
 
             con.Open();
 
@@ -75,18 +55,6 @@ namespace CapaDatos
             comando.Parameters.AddWithValue("@tipo_visita", tipo_visita);
             comando.ExecuteNonQuery();
             con.Close();
-
-    
-
-
-
-
-
-
-
-
-
-
 
         }
         public DataTable BuscarVisita(int id)
