@@ -24,16 +24,8 @@ namespace CapaEntidad
         private PictureBox foto;
         private string correo;
         private int id;
+        
         private string tipo_visita;
-  
-
-
-
-
-
-
-
-
         public string UserName { get => userName; set => userName = value; }
         public string Password { get => password; set => password = value; }
         public string Nombre { get => nombre; set => nombre = value; }
