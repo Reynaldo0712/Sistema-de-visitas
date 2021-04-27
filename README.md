@@ -21,7 +21,4 @@ Como ejecutar:
 Para ejecutar este programa es necesario realizar la descarga del proyecto. 
 Ejecutar el archivo llamado SCRIPT en SQL Server Management Studio para crear la base de datos.
 Abrir la solucion SistemaDeVisitas en el Visual Studio.
-En el archivo App.Config de la capa Sistema de Visitas en el apartado de 
-**<connectionStrings>
- <add name="sqlconex" connectionString="Data Source=**NOMBRE DE SU SERVIDOR LOCAL***;Initial Catalog=Control;Integrated Security=True"/>
-  </connectionStrings>** cambiar el nombre del servidor por el suyo.
+En el archivo App.Config de la capa Sistema de Visitas en el apartado de  connectionStrings   cambiar el nombre del servidor actual por su servidor local.
