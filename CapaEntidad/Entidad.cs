@@ -40,6 +40,7 @@ namespace CapaEntidad
         public PictureBox Foto { get => foto; set => foto = value; }
         public string Correo { get => correo; set => correo = value; }
         public int Id { get => id; set => id = value; }
-        public string Tipo_visita { get => tipo_visita; set => tipo_visita = value; }
+        public string Tipo_visita { get => tipo_visita; set => tipo_visita = value; 
+                                  }
     }
 }
