@@ -13,6 +13,7 @@ namespace CapaDatos
 {
     public class Datos
     {
+        //SAUL WAS HEREs
         SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["sqlconex"].ConnectionString);
         SqlCommand comando;
         Entidad enti = new Entidad();
